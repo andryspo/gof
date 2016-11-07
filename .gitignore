@@ -4,7 +4,7 @@ Configuration edit s*.class
 /target/
 WebContent/
 
-
+out/
 .idea
 *.jar
 *.war
